@@ -1,2 +1,2 @@
-# world-happiness---data-visualization
+# world-happiness-data-visualization
 Kaggle Data Visualization Project
